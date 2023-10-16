@@ -1,2 +1,0 @@
-# GeometricModeling
-Geometric modeling
